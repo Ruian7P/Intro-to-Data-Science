@@ -13,5 +13,5 @@ Only for Personal Records and Reviews: Sophomore 2024 Fall (third semester)
 ## Menu
 
 Introduction to Data Science NYU DSGA
-- [inference]([https://github.com/Ruian7P/Operating-Systems/blob/main/notes/1.stack_frame.md](https://github.com/Ruian7P/Intro-to-Data-Science/blob/main/notes/Inference.md))
+- [inference](https://github.com/Ruian7P/Intro-to-Data-Science/blob/main/notes/Inference.md)
 - [Machine Learning](https://github.com/Ruian7P/Intro-to-Data-Science/blob/main/notes/ML.md)
